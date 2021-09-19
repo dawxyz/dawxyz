@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dawxyz
+- 👀 I’m interested in ... QMK Python3 KaliLinux
+- 🌱 I’m currently learning ... all of the above lol
+- 💞️ I’m looking to collaborate on ... making a custom dz60 layout for coding productivity
+- 📫 How to reach me ... dm me on discord @Dawz#9999
